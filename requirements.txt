@@ -4,4 +4,4 @@ dash_html_components
 pandas
 plotly
 us
-dateutil
+python-dateutil==2.8.0
