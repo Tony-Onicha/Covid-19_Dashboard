@@ -1,1 +1,1 @@
-gunicorn Covid_19_Dashboard.py: server
+web: gunicorn Covid_19_Dashboard:app
