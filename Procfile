@@ -1,1 +1,1 @@
-web: gunicorn Covid_Tony_Test.py:app
+web: gunicorn covid_tony_test:app
