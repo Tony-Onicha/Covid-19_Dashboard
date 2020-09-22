@@ -1,1 +1,1 @@
-web: gunicorn covid_tony_test:server
+web: gunicorn covid-19_dashboard:server
