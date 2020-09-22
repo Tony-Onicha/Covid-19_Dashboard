@@ -7,11 +7,10 @@ import plotly.graph_objects as go
 import us
 from dash.dependencies import Input, Output
 from dateutil import parser
-import gunicorn
 
 external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-# server = app.server
+server = app.server
 
 US_covid_deaths = pd.read_csv(
     "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv")
@@ -662,5 +661,4 @@ def display_click_data(clickData, dropdown):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
-    # server(gunicorn)
+    app.run_server(host="0.0.0.0", port=8080, debug=True)
