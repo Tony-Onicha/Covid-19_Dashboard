@@ -1,7 +1,3 @@
-alabaster==0.7.12
-anaconda-client==1.7.2
-anaconda-navigator==1.9.12
-anaconda-project==0.8.3
 argh==0.26.2
 argon2-cffi @ file:///C:/ci/argon2-cffi_1596826740294/work
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
@@ -32,9 +28,6 @@ clyent==1.2.2
 colorama==0.4.3
 combo==0.1.0
 comtypes==1.1.7
-conda==4.8.5
-conda-build==3.18.11
-conda-package-handling==1.7.0
 contextlib2==0.6.0.post1
 contextvars==2.4
 cryptography @ file:///C:/ci/cryptography_1601046909128/work
