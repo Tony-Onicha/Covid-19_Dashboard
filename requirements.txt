@@ -150,12 +150,6 @@ python-dateutil==2.8.1
 python-jsonrpc-server
 python-language-server
 pytz==2020.1
-PyWavelets
-pywin32
-pywin32-ctypes
-pywinpty
-PyYAML==5.3.1
-pyzmq==19.0.2
 QDarkStyle==2.8.1
 QtAwesome==0.7.2
 qtconsole
