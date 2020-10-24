@@ -21,7 +21,7 @@ contextlib2==0.6.0.post1
 contextvars==2.4
 cycler==0.10.0
 cytoolz==0.11.0
-dash @ file:///home/conda/feedstock_root/build_artifacts/dash_1596870105808/work
+dash @ 
 dash-core-components @ file:///home/conda/feedstock_root/build_artifacts/dash-core-components_1596203643601/work
 dash-html-components==1.0.3
 dash-renderer @ file:///home/conda/feedstock_root/build_artifacts/dash-renderer_1596203647496/work
