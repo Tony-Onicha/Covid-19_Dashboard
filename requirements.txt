@@ -23,7 +23,7 @@ cycler==0.10.0
 cytoolz==0.11.0
 dash 
 dash-core-components 
-dash-html-components==1.0.3
+dash-html-components
 dash-renderer 
 dash-table 
 dask 
@@ -44,7 +44,6 @@ fsspec
 future==0.18.2
 gevent 
 glob2==0.7
-gmpy2==2.0.8
 graphviz==0.14
 greenlet 
 gunicorn==20.0.4
@@ -137,9 +136,6 @@ pydotplus==2.0.2
 pyflakes==2.2.0
 Pygments
 pylint==2.6.0
-PyNaCl
-pyod==0.7.7.1
-pyodbc
 pyOpenSSL
 pyparsing==2.4.7
 pyreadline==2.1
@@ -179,8 +175,6 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 sphinxcontrib-websupport 
-spyder 
-spyder-kernels 
 SQLAlchemy 
 statsmodels==0.11.1
 suod==0.0.3
