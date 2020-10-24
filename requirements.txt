@@ -1,8 +1,13 @@
 dash
 dash_core_components
-dash_html_components
+dash_html_components==1.0.3
+dash-renderer 
+dash-table
+flake8==3.8.3
+Flask==1.1.2
+Flask-Compress==1.5.0
 pandas
 plotly==4.5.2
-us==2.0.2
-python-dateutil==2.8.0
 gunicorn==20.0.4
+python-dateutil==2.8.0
+us==2.0.2
