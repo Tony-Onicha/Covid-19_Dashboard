@@ -2,6 +2,7 @@ dash
 dash_core_components
 dash_html_components
 pandas
-plotly
-us
+plotly==4.5.2
+us==2.0.2
 python-dateutil==2.8.0
+gunicorn==20.0.4

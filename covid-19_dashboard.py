@@ -7,6 +7,7 @@ import plotly.graph_objects as go
 import us
 from dash.dependencies import Input, Output
 from dateutil import parser
+import gunicorn
 
 external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
