@@ -158,7 +158,6 @@ regex
 requests
 retrying==1.3.3
 rope==0.17.0
-Rtree==0.9.4
 ruamel-yaml==0.15.87
 scikit-image==0.16.2
 scikit-learn
