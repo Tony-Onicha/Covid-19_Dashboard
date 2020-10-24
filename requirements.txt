@@ -139,7 +139,7 @@ Pygments
 pylint==2.6.0
 PyNaCl
 pyod==0.7.7.1
-pyodbc===4.0.0-unsupported
+pyodbc
 pyOpenSSL
 pyparsing==2.4.7
 pyreadline==2.1
