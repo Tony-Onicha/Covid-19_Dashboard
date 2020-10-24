@@ -21,16 +21,16 @@ contextlib2==0.6.0.post1
 contextvars==2.4
 cycler==0.10.0
 cytoolz==0.11.0
-dash @ 
-dash-core-components @ file:///home/conda/feedstock_root/build_artifacts/dash-core-components_1596203643601/work
+dash 
+dash-core-components 
 dash-html-components==1.0.3
-dash-renderer @ file:///home/conda/feedstock_root/build_artifacts/dash-renderer_1596203647496/work
-dash-table @ file:///home/conda/feedstock_root/build_artifacts/dash-table_1596867885662/work
-dask @ file:///tmp/build/80754af9/dask-core_1600699676946/work
+dash-renderer 
+dash-table 
+dask 
 decorator==4.4.2
 defusedxml==0.6.0
-diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
-distributed @ file:///C:/ci/distributed_1600681824575/work
+diff-match-patch 
+distributed 
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
@@ -40,53 +40,53 @@ filelock==3.0.12
 flake8==3.8.3
 Flask==1.1.2
 Flask-Compress==1.5.0
-fsspec @ file:///tmp/build/80754af9/fsspec_1597944003862/work
+fsspec 
 future==0.18.2
-gevent @ file:///C:/ci/gevent_1593010720265/work
+gevent 
 glob2==0.7
 gmpy2==2.0.8
 graphviz==0.14
-greenlet @ file:///C:/ci/greenlet_1600874077257/work
+greenlet 
 gunicorn==20.0.4
 h5py==2.10.0
 HeapDict==1.0.1
-html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
-imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
+html5lib 
+idna 
+imageio 
 imagesize==1.2.0
-immutables @ file:///C:/ci/immutables_1592426094604/work
-importlib-metadata @ file:///C:/ci/importlib-metadata_1593431910144/work
-iniconfig @ file:///tmp/build/80754af9/iniconfig_1596827328212/work
-intervaltree @ file:///tmp/build/80754af9/intervaltree_1598376443606/work
-ipykernel @ file:///C:/ci/ipykernel_1596206775157/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1593446240034/work
+immutables 
+importlib-metadata
+iniconfig
+intervaltree
+ipykernel
+ipython
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 isort==5.4.2
 itsdangerous==1.1.0
 jdcal==1.4.1
-jedi @ file:///C:/ci/jedi_1592841982010/work
+jedi
 jellyfish==0.6.1
 Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+joblib
 json5==0.9.5
 jsonpath-rw==1.4.0
 jsonschema==3.2.0
 jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
-jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
+jupyter-client
+jupyter-console
 jupyter-core==4.6.3
 jupyterlab==2.2.6
-jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
-keyring @ file:///C:/ci/keyring_1598884806717/work
+jupyterlab-server
+keyring
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
 llvmlite==0.34.0
 locket==0.2.0
-lxml @ file:///C:/ci/lxml_1594821524941/work
+lxml
 MarkupSafe==1.1.1
-matplotlib @ file:///C:/ci/matplotlib-base_1597858295275/work
+matplotlib
 mccabe==0.6.1
 menuinst==1.4.16
 mistune==0.8.4
@@ -94,7 +94,7 @@ mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
 mock==4.0.2
-more-itertools @ file:///tmp/build/80754af9/more-itertools_1598884071673/work
+more-itertools
 mpmath==1.1.0
 msgpack==1.0.0
 multipledispatch==0.6.0
