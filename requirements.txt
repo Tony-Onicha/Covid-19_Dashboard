@@ -150,7 +150,7 @@ python-dateutil==2.8.1
 python-jsonrpc-server
 python-language-server
 pytz==2020.1
-PyWavelets==1.1.1
+PyWavelets
 pywin32==227
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
